@@ -1,2 +1,3 @@
 # washu-eeps.github.io
-main GitHub page
+
+Auto-redirects to https://github.com/washu-eeps.
